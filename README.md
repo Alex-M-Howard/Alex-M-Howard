@@ -34,3 +34,9 @@
 
 - ⚡ Fun fact: ...
   When I was going through my programming boot camp, building skills that would eventually lead to better places, I utilized Ke$ha to focus. I am not exagerrating when I tell you that I've listened to "Die Young" on repeat for hours while working on projects.
+
+
+![](https://raw.githubusercontent.com/Alex-M-Howard/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Alex-M-Howard/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Alex-M-Howard/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Alex-M-Howard/github-stats/master/generated/languages.svg#gh-light-mode-only)
